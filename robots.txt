@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: legalnye-kazino-v-rossii.github.io
+Sitemap: https://legalnye-kazino-v-rossii.github.io/sitemap.xml
